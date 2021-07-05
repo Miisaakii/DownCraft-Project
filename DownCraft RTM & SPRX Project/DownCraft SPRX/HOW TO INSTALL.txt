@@ -16,4 +16,4 @@ Bugs now: don't go faster in menu and when you close the menu wait 2 secondes be
 
 Any report on comment youtube / discord server but i have played with this for 5 days it's work fine for me !
 
-- Misaki DEV
+- Misakiii
