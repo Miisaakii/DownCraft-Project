@@ -1,0 +1,2 @@
+Made by Misaki
+If you got a error when you start your game try to resign the eboot for your correct firmware.
